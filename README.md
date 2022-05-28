@@ -1,1 +1,1 @@
-# ds_remote
+# my data science projects
