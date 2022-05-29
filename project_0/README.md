@@ -11,21 +11,31 @@
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up: [к оглавлению](https://github.com/zzz-Ivan-zzz/ds_remote/blob/main/project_0/README.md#Оглавление)
+:arrow_up: [К оглавлению](https://github.com/zzz-Ivan-zzz/ds_remote/blob/main/project_0/README.md#Оглавление)
 
 ### Какой кейс решаем?
 Нужно написать программу, которая угадывает число меньше, чем за 20 попыток.
 
+:arrow_up: [К оглавлению](https://github.com/zzz-Ivan-zzz/ds_remote/blob/main/project_0/README.md#Оглавление)
+
 ### Краткая информация о данных
 На вход функции для угадывания подается рандомное число из библиотеки Numpy в указанном в функции диапазоне
+
+:arrow_up: [К оглавлению](https://github.com/zzz-Ivan-zzz/ds_remote/blob/main/project_0/README.md#Оглавление)
 
 ### Этапы работы над проектом
 1) написание кода и комментариев
 2) оформление проекта на Github
 
+:arrow_up: [К оглавлению](https://github.com/zzz-Ivan-zzz/ds_remote/blob/main/project_0/README.md#Оглавление)
+
 ### Результаты
 Реализованные в коде функции угадывают рандомно загаданное число менее, чем за 20 попыток. Проект оформлен должным образом и отправлен на Github
+
+:arrow_up: [К оглавлению](https://github.com/zzz-Ivan-zzz/ds_remote/blob/main/project_0/README.md#Оглавление)
 
 ### Выводы
 1) Github - удобная среда для работы над проектом
 2) правильное оформлениме кода помогает лучше ориентироваться в нем в том числе назнакомым людям
+
+:arrow_up: [К оглавлению](https://github.com/zzz-Ivan-zzz/ds_remote/blob/main/project_0/README.md#Оглавление)
